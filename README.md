@@ -2,8 +2,6 @@
 
 A terminal-based multi-mode calculator written in C. Supports everyday arithmetic, scientific functions, statistical analysis, geometry, and unit conversions — all through an interactive menu-driven interface.
 
-Built as a group project for CIS*3250 F25, Section 1, Group 3 at the University of Guelph.
-
 ---
 
 ## Modes
