@@ -108,6 +108,5 @@ Legacy Code/
 | Name | Contributions |
 |---|---|
 | Shayan Safaei | Core calculator menus and input handling |
-| Zubaidi | Conversions module, bug fixes |
-| Brooke Stephanos | Factorial refactor |
-| Luisa Zorzetto| Palak Palak|
+| Zubaidi, Luisa Zorzetto | Conversions module, bug fixes |
+| Brooke Stephanos, Palak Palak | Factorial refactor |
